@@ -23,10 +23,10 @@
 <html> 
 <head> 
 	<title>Dashboard</title> 
-	<meta charset="utf-8" name="viewport" content="width=device-width,intial-scale=1"> 
-	<link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"> <!-- Corrected typo in "initial" -->
+	<link rel="stylesheet" type="text/css" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
 	<script type="text/javascript" src="../node_modules/jquery/dist/jquery.min.js"></script>
-	<script type="text/javascript" src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script> 
+	<script type="text/javascript" src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </head> 
 <body> 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark"> 
